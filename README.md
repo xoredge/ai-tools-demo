@@ -24,3 +24,13 @@ Experiment with different tools model
 
 - [Command-r7b](https://ollama.com/library/command-r7b)
 
+# Setup Instructions
+
+## Install .NET Core
+To install .NET Core, follow the instructions provided [here](https://dotnet.microsoft.com/en-us/download).
+
+## Install Rider
+To install JetBrains Rider, follow the installation guide available [here](https://www.jetbrains.com/help/rider/Installation_guide.html).
+
+## Install Ollama
+To install Ollama, visit the download page [here](https://ollama.com/download).
