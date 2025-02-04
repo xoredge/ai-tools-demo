@@ -34,3 +34,25 @@ To install JetBrains Rider, follow the installation guide available [here](https
 
 ## Install Ollama
 To install Ollama, visit the download page [here](https://ollama.com/download).
+
+# Usage Instructions
+
+## Load the Model
+To load the model, use the following command:
+```ollama run <model-name>```
+
+## Run the Application
+To run the application, use Run button in Rider or execute the following command in the terminal:
+```dotnet run```
+
+## Try the Application
+You can try different questions and see the results.
+1. How many lights are there?
+2. Would you turn on Living Room lights?
+3. I want to turn off Kitchen light.
+4. What is status of Bedroom light?
+5. Turn on all lights.
+6. What is date today?
+7. Multiply 5 by 3.
+8. How many days left in this month?
+
