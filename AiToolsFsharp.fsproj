@@ -8,7 +8,6 @@
   <ItemGroup>
     <Compile Include="Plugins.fs" />
     <Compile Include="Program.fs" />
-    <Content Include=".gitignore" />
   </ItemGroup>
 
   <ItemGroup>
